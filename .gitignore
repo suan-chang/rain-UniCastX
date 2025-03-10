@@ -1,0 +1,4 @@
+__pycache__
+.vscode
+.ruff_cache
+data_test/*
